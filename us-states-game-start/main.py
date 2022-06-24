@@ -1,6 +1,5 @@
 import turtle
 import pandas
-import random
 
 screen = turtle.Screen()
 screen.title("U.S. States Game")
